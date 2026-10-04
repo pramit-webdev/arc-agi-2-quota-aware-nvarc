@@ -18,7 +18,7 @@ COMP="arc-prize-2026-arc-agi-2"
 VERSION="7"
 OUTDIR="/tmp/lb33_v${VERSION}_out"
 LOG="/tmp/lb33_autosubmit.log"
-MAX_POLLS=200          # 200 * 180s ~= 10 hours
+MAX_POLLS=960          # 960 * 180s ~= 48 hours (L4x4 queues have been 24h+)
 POLL_SECONDS=180
 
 cd "$ROOT" || exit 1
