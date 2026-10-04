@@ -1,7 +1,7 @@
 # Solution Writeup — ARC Prize 2026, ARC-AGI-2
 
 **Author:** Pramit Das · **Kaggle:** `pramitdas`
-**Track:** ARC-AGI-2 · **Code:** this repository (CC BY 4.0)
+**Track:** ARC-AGI-2 · **Code:** https://github.com/pramit-webdev/arc-agi-2-quota-aware-nvarc (CC BY 4.0)
 **Notebook:** `pramitdas/arc-2026-agi2-nvarc-lb33-v1`
 
 ## 1. Summary
@@ -99,7 +99,10 @@ architecture.
 
 ## 6. Artifacts
 
+- Repository (open source, CC BY 4.0):
+  https://github.com/pramit-webdev/arc-agi-2-quota-aware-nvarc
 - Submission notebook: `pramitdas/arc-2026-agi2-nvarc-lb33-v1`
 - Dev harvest notebook: `pramitdas/arc-2026-agi2-nvarc-harvest-v1`
-- Repository: notebook builders, `eval_nvarc_offline.py`, `tune_nvarc_picker.py`,
-  `RESULTS.md` (all measured numbers), `THIRD_PARTY.md`, `LICENSE` (CC BY 4.0).
+- In the repository: notebook builders, `eval_nvarc_offline.py`,
+  `tune_nvarc_picker.py`, `RESULTS.md` (all measured numbers), `THIRD_PARTY.md`,
+  `LICENSE` (CC BY 4.0).

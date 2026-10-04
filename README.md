@@ -77,3 +77,6 @@ kaggle competitions submit arc-prize-2026-arc-agi-2 \
 
 Original work: **CC BY 4.0** (see `LICENSE`). Third-party components retain
 their own terms (`THIRD_PARTY.md`).
+
+Open-source repository:
+https://github.com/pramit-webdev/arc-agi-2-quota-aware-nvarc
