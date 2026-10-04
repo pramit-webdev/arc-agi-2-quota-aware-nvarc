@@ -1,0 +1,23 @@
+# Secrets - never commit
+.env
+*.env
+kaggle.json
+access_token
+__pycache__/
+*.pyc
+
+# Data (large, downloadable via Kaggle API). Competition data is NOT
+# redistributed: pull it with `kaggle competitions download`.
+data/*.zip
+data/*.json
+
+# Outputs
+output/
+submission.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+.venv/
+*.egg-info/
